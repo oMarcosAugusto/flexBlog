@@ -1,0 +1,26 @@
+@import "./global/global.css";
+
+/* BODY */
+@import "./body/body.css";
+
+/* MENU */
+@import "./menu/menu.css";
+
+/* INTRODUÇÃO */
+@import "./introducao/introducao.css";
+@import "./introducao/sobre.css";
+
+/* PRODUTO */
+@import "./produtos/produto.css";
+
+/* SEGUROS */
+@import "./seguros/seguros.css";
+
+/* QUALIDADE */
+@import "./qualidade/qualidade.css";
+
+/* NEWSLETTER */
+@import "./newsL/newsL.css";
+
+/* FOOTER */
+@import "./footer/footer.css";
